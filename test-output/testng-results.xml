@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33149" started-at="2019-09-18T17:39:18 IST" finished-at="2019-09-18T17:39:52 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33149" started-at="2019-09-18T17:39:18 IST" finished-at="2019-09-18T17:39:52 IST">
+      <class name="Test_Scenarios.test.Scenario4">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Test_Scenarios.test.Scenario4@3234e239]" name="beforeTest" is-config="true" duration-ms="22564" started-at="2019-09-18T17:39:18 IST" finished-at="2019-09-18T17:39:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Search_Anna_University()[pri:0, instance:Test_Scenarios.test.Scenario4@3234e239]" name="Search_Anna_University" duration-ms="9110" started-at="2019-09-18T17:39:41 IST" finished-at="2019-09-18T17:39:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search_Anna_University -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Test_Scenarios.test.Scenario4@3234e239]" name="afterTest" is-config="true" duration-ms="1285" started-at="2019-09-18T17:39:50 IST" finished-at="2019-09-18T17:39:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Test_Scenarios.test.Scenario4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

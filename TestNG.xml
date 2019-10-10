@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<parameter name="pdfngreport-properties" value="pdfngreport.properties" />
+<test thread-count="1" name="Test">
+<classes>
+<class name="Test_Scenarios.test.NewTest"/>
+<class name="Test_Scenarios.test.Scenario2"/>
+<class name="Test_Scenarios.test.Scenario3"/>
+<class name="Test_Scenarios.test.Scenario4"/>
+</classes>
+</test> <!-- Test -->
+</suite> <!-- Suite -->
